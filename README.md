@@ -19,7 +19,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## Mockup
 
-
+![mockup-budget](https://user-images.githubusercontent.com/90168071/142798731-89d448f5-dff7-4d4f-909e-d8b7af1e3b9e.JPG)
 
 ## Github Repo
 
